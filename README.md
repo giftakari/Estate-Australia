@@ -1,5 +1,8 @@
 # EstateAustralia
 
+#### A Real Estate application which enables users to be able to search and rental propeties , compare and check schools 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
